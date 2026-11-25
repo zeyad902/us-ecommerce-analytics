@@ -84,43 +84,43 @@ Business Analysis & 5-Page Dashboard
 
 ## Key Business Insights
 
-### One category dominates revenue at the thinnest margin
+### 1- One category dominates revenue at the thinnest margin
 
 **Finding:** Electronics generates $676M — **74% of $911M net revenue** — at an **18.2% margin**, the lowest of all seven categories (fashion earns 62.5% on 7% of revenue).
 
 **Business meaning:** Revenue concentration masks a profitability problem. The blended 25.7% margin is a weighted average dominated by the weakest-margin category — pricing and procurement in electronics is the largest single margin lever.
 
-### Delivery speed is strongly associated with customer satisfaction
+### 2- Delivery speed is strongly associated with customer satisfaction
 
 **Finding:** Average review scores hold at **4.4 / 4.3 / 4.1** for Fast / Normal / Slow deliveries, then collapse to **1.5/5** for Very Slow deliveries (15+ days, ~66K orders).
 
 **Business meaning:** The pattern marks ~14 days as a natural SLA threshold. The analysis shows a strong association; investigating the operational causes of the very-slow cohort is the logical next step.
 
-### Retention is near-ceiling — growth is an acquisition problem
+### 3- Retention is near-ceiling — growth is an acquisition problem
 
 **Finding:** **82.1%** of delivered customers (226,611 of 276,017) placed two or more delivered orders, averaging 3.38 orders per customer.
 
 **Business meaning:** Loyalty programs have little headroom. The ~49K one-time buyers are the conversion pool, and net-new growth has to come from acquisition.
 
-### November is a recurring, growing super-peak
+### 4- November is a recurring, growing super-peak
 
 **Finding:** November revenue spikes recur every year and grow — **$27M → $65M** between 2019 and 2025 — with November order volume 2–3× a typical month. December recorded the **fastest average delivery time of the year at 7.77 days**, despite the broader Q4 demand peak.
 
 **Business meaning:** Q4 demand concentration appears structural and recurring — a pattern that seasonal capacity, inventory, and staffing planning can be sized against. December's 7.77-day average suggests delivery speed held at its yearly best during the peak.
 
-### 2025 cancellations broke the historical pattern
+### 5- 2025 cancellations broke the historical pattern
 
 **Finding:** Canceled order value jumped to **$37M in 2025 — ~12% of order value**, versus a stable ~6% share across 2019–2024.
 
 **Business meaning:** An early-warning signal that the cancellation profile is shifting; the value is visible on the dashboard, and the split between rate and order size is the first investigation to run.
 
-### Discounts show no measurable volume lift
+### 6- Discounts show no measurable volume lift
 
 **Finding:** ~97.5% of units and revenue are non-discounted; the three discounted bands (10–30%, applied to ~8.6% of lines) combined contribute ~$23M with flat unit counts per band.
 
 **Business meaning:** The current discount program adds margin pressure without an observable volume response — evidence to review its purpose or reallocate it.
 
-### Payment value concentrates on card rails, and financing is card-exclusive
+### 7- Payment value concentrates on card rails, and financing is card-exclusive
 
 **Finding:** Credit cards carry **50.7% of $1.22B payment value**; installments exist only on cards (6.4 / 6.3 average vs. exactly 1.0 for every other type).
 
